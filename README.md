@@ -1,8 +1,8 @@
 # TUGAS_DATA_MINING_APRIORI
 
 
-- Nama: Febrian Guntur Pamungkas
-- Prodi: S1 SISTEM INFORMASI
+Nama : Hafiz Nafi'uddin
+NIM : 21510002
 
 ## Deskripsi
 Tugas Data Mining menggunakan algoritma Apriori untuk menganalisis pola asosiasi dalam sebuah dataset transaksi.
