@@ -1,8 +1,8 @@
 # TUGAS_DATA_MINING_APRIORI
 
 
-Nama : Hafiz Nafi'uddin
-NIM : 21510002
+- Nama : Hafiz Nafi'uddin
+- NIM : 21510002
 
 ## Deskripsi
 Tugas Data Mining menggunakan algoritma Apriori untuk menganalisis pola asosiasi dalam sebuah dataset transaksi.
